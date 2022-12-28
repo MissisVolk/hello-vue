@@ -127,9 +127,25 @@ nav{
 	width: 100px;
 	height: auto;
 }
+.logo-footer {
+	width: 60px;
+	height: auto;
+}
 .site-name
 {
 	display: flex;
 	justify-content: center;
 	border-bottom: 3px solid;
+}
+img {
+	height: auto;
+	width: 100%;
+}
+
+footer{
+	display: flex;
+	justify-content: center;
+	/* font-size: auto; */
+	border-top: 3px groove;
+	border-bottom: none;
 }

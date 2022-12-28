@@ -6,7 +6,7 @@
   <h2> Добро пожаловать!</h2>
   <a href="#" class="btn btn-succes"> Add product</a>
   <div> Мы любим туризм, альпинизм и своё дело! Добро пожаловать в наш магазин!
-    <div>
+    <div class="mycollages">
       <img src="./MyCollages.jpg" alt="MyCollagesSS">
     </div>
   </div>
