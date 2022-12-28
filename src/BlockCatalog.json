@@ -1,0 +1,27 @@
+{ "Catalog": [
+    {"id": 1, "image": "Велес.jpg", "title": "Велес","price": "100.00", "currency": "USD"
+    },
+    {"id": 2, "image": "Баба Яга.jpg", "title": "Баба Яга", "price": "100.00"
+    },
+    {"id": 3, "image": "Перун.jpg", "title": "Перун","price": "100.00"
+    },
+    {"id": 4, "image": "русалки.jpg", "title": "Русалки"
+    },
+    {"id": 5, "image": "Мавка.jpg", "title": "Мавка"
+    },
+    {"id": 6, "image": "кикимора болотная.jpg", "title": "Кикимора"
+    },
+    {"id": 7, "image": "Полудница.jpg", "title": "Полудница"
+    },
+    {"id": 8, "image": "Полуночница.jpg", "title": "Полуночница"
+    },
+    {"id": 9, "image": "Дух.jpg", "title": "Лесной дух"
+    },
+    {"id": 10, "image": "drevo.jpg", "title": "Мировое дерево"
+    },
+    {"id": 11, "image": "Леший.jpg", "title": "Леший"
+    },
+    {"id": 11, "image": "drevo.png", "title": "Дерево"
+    }
+]
+}
